@@ -1,6 +1,8 @@
 At a COBOL workshop
 ==================
 
+"KEEPING THE DINOSAURS ALIVE"
+
 Practicing basics of programming in COBOL
 _________________________________________
 
